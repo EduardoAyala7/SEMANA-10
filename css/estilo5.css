@@ -1,0 +1,35 @@
+/*Estilos para html*/
+
+body{
+    background-color:darkkhaki;
+    font-family: verdana;
+}
+ol {
+    color: white;
+    text-align: center;
+    font-family: lucida sans;
+    margin: 25px auto;
+    font-size: 25px;
+}
+li {
+    color:white;
+    text-align: center;
+    width: 300px;
+    margin: 25px auto;
+    font-family: arial;
+    font-size: 25px;
+}
+a {
+    color:white;
+    text-align: center;
+    width: 300px;
+    margin: 25px auto;
+    font-family: arial;
+}
+h1 {
+    color:blue;
+    font-size: 50px;
+    text-align: center;
+    width: 300px;
+    margin: 25px auto;
+}
